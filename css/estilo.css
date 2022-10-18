@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+.pie{
+    background-image: url("../image/pasteleria1.png");
+   
+}
+
+.pie h1{
+    color:black;
+    text-shadow: 0 0 2px red;
+    
+}
+
+.contenedor{
+    background-color: aquamarine;
+}
